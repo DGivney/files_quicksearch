@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <info>
-	<id>files_quicksearch</id>
-	<name>Simple file filter</name>
-	<description>This small app adds an input field to the filemanager that lets you quickly search for files and folders and select all matching ones.</description>
-	<licence>AGPL</licence>
-	<author>Florian Hülsmann</author>
-	<require>4</require>
-	<version>0.1.1</version>
+    <id>files_quicksearch</id>
+    <name>Simple file filter</name>
+    <description>This small app adds an input field to the filemanager that lets you quickly search for files and folders and select all matching ones. This project has been updated to work with ownCloud version 5.</description>
+    <licence>AGPL</licence>
+    <author>Florian Hülsmann & Daniel Givney</author>
+    <require>5</require>
+    <version>0.1.2</version>
 </info>
